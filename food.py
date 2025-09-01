@@ -10,7 +10,10 @@ class Food(Turtle):
         self.penup()
         self.speed("fastest")
         self.refresh()
-        
+    raaziayasin
+    arhamtanvir
+    mahamzara
+    hurainfatima
     def refresh(self):
         random_x = random.randint(-280, 280)
         random_y = random.randint(-280,280)
